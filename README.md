@@ -1,4 +1,4 @@
-# CS231n - assignemnt
+# CS231n - assignment
 
 assignment of cs231n which computer vision course at stanford univ
 
